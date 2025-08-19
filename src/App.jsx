@@ -167,7 +167,7 @@ export default function PixiqLanding() {
         <div className="grid md:grid-cols-2 gap-8">
           <form
             className="rounded-3xl border border-white/15 p-6 space-y-4 bg-white/[0.03]"
-            action="https://formspree.io/f/your-form-id"
+            action="https://formspree.io/f/xnnzkaqe"
             method="POST"
           >
             <div>
