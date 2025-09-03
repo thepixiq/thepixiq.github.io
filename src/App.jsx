@@ -7,15 +7,15 @@ import LOGO_IMAGE from "./assets/pixiq-logo-white.png";
 
 const AUDIO_SETS = [
   {
-    title: "bait & switch themed mashups",
-    description: "unexpected blends, luxury chaos, clean transitions",
-    audioSrc: "https://github.com/thepixiq/thepixiq.github.io/blob/main/bait_switch_holiday.m4a",
-  },
-  {
-    title: "dance energy flow",
-    description: "euphoric movement, sweat, glow",
-    audioSrc: "https://github.com/thepixiq/thepixiq.github.io/blob/main/dance.m4a",
-  },
+  title: "bait & switch themed mashups",
+  description: "unexpected blends, luxury chaos, clean transitions",
+  audioSrc: "https://github.com/thepixiq/thepixiq.github.io/raw/main/bait_switch_holiday.m4a",
+},
+{
+  title: "dance energy flow",
+  description: "euphoric movement, sweat, glow",
+  audioSrc: "https://github.com/thepixiq/thepixiq.github.io/raw/main/dance.m4a",
+}
 ];
 
 export default function PixiqLanding() {
