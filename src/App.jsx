@@ -7,14 +7,14 @@ import LOGO_IMAGE from "./assets/pixiq-logo-white.png";
 
 const AUDIO_SETS = [
   {
-    title: "bait & switch mashups",
+    title: "bait & switch themed mashups",
     description: "unexpected blends, luxury chaos, clean transitions",
-    audioSrc: "https://link.blastradio.com/ls/click?upn=u001.sPUc1Bb9HumPU-2FaSxqe0QqPYwQi-2Fd6shAOLi1vk-2BCAA26aWZpN6dU-2FFZp7-2Fkg-2FDXjUtFrZRHD8GJDNrwr9Z4yu-2FQAEa2OTkVNaJfWCKEuCFsL-2BZdfNhOB6gAvi4q8qV6cN-2BTRMgPqG53pYXbYWm-2BTqoCFFCWO81VJD-2BH8o3diO5dFP2fxz9hAqO3PMat7kMVFDRCN6OMwOAVXz-2B8QKRw7hfXwWZHZprZWYAlluJbGQW3ghvyBIiWRr8W1y6xeGYmd4kTCRqgVJlDkQvKTgZHTkun1b-2FpKnpTK6HmNidLtChJLad6z8yV1-2Fhor6VF-2FuyrT2U3VdYFfOEF5aivOQnngD36jcJ-2Bcqz-2FH8vtdxLPy-2BiuvZLYPxTvQYpjTHjgxzUts532a0RLE-2FVrJ2SVWTs5YrAgT7KmDdgCNg-2FPks5OQbUo-2FfncMJ0-2BczQR8zwCHTryMnMNIA0wRBk6zWaiMj6fluHc6o2vZyfssFGmqPPX1U8BDA-2Fk6t6hvZUFla9Fguvt7B5l5fYfXQVXaVl3bgXMF9fNSrMXDjp2XOceXhdiQOWiN0YVWsp54wanHv7WB3HFSjxKRSLz10krnnwZKUJyJzAMiDyW4MnEADhYcygtNeHsVXC-2BQjTWXl9u-2BnJ4QZewo8wxcCkJTnDXU6qo4eBdKYsYbtcXV4mSa5ZCi9caG1HP0oS5UytAAn5njVfTdigWvYaEjzhryY-2F6IhYYwOqpks6qsezQGrUj2Srpdx2OVNM-2BrS-2FR2xKdlbywLYH91obOc9nKOLXzcpTfEKK-2Ff3zkIuaq5kORjNNNRQApnXp2zZIJMCAihM2TBPry8lb9oYiWps-2FDTVxhwXVj-2FRLzfektH6US0cIe7x-2F7MBNvd-2FgJPEs-3Dz3Zr_5J-2FwVDS3qm7eyEbT5QLsoL8yGMdekiHD3KMCE9tJGPRVDE-2Bik3IhCpoaBCxu-2FrX-2B-2FzkZj2RUeIVd0VcmY-2FUOBx2qryNoCGcaH-2FU2-2Bqt1dtAAaf42irfp-2FcpQMoWh-2B-2FLGNmIIiEFzZC-2Fp-2Bt2pQoCvVT8Aefalqs3c4nuJOUwrg7X-2BEqwC-2B-2Bnie0QOo6qFJPjLae2D1Ea79tZ3UeAu3Rtprw-3D-3D",
+    audioSrc: "https://github.com/thepixiq/thepixiq.github.io/blob/main/bait_switch_holiday.m4a",
   },
   {
     title: "dance energy flow",
     description: "euphoric movement, sweat, glow",
-    audioSrc: "https://link.blastradio.com/ls/click?upn=u001.sPUc1Bb9HumPU-2FaSxqe0QqPYwQi-2Fd6shAOLi1vk-2BCAA26aWZpN6dU-2FFZp7-2Fkg-2FDXjUtFrZRHD8GJDNrwr9Z4ygogxNxL8WGXZ-2B3ADYBFVfm1c93cEgiZ-2FB-2F8a3j9jttMFBwOQAGkiMZOi5FO3U0fb5JiJUNcDd0QmoGkQ99r-2FMzIoSGV5nrOh8gVOc-2B8R3Knh3ylIr-2BT-2FEA6IJmZhmFcNzPD6PSBhxb3kDDfFkeMwuVh6HpoqwpkBDMTUyYbYW2-2FndzimAGXBS8FotJqoCvpeuRj3YZC6O5-2FqPj8N-2BzYVr-2BYa2IRGgcEaDct0aNa2r-2FaiUBRJ7-2B2tUi828ZIidaEr-2FNk03zuqiy5mETrrmShaN9fesqWwu3SMZBavOc6H8lGdiWWfjWrL6EY1XUfjpdikhDT-2FyYp72XcPSOWB1KzkV1broRqI5K-2FOKEYwjzHLEqkoOEs4-2BDSK9d1W2z3EkTlr9uc-2F2uteKYWpylD-2FfVHPpV-2FiYM9fiT-2BOlGiufqJRZWM-2FZEBEV4OSQ9yi0wT33Pb0fWJNW2VEOuYRUXFg9QDWR3fa6xkgmR3D-2F1fY3RJ63CiSXs6MHQW4yKppsC6m0lmfuInWkYbnOhrwJs12TIt2riu9s7E11OAuPbPUmQyfjJIwHUXEIufAv8S-2FOuvxY93tby3EQVuqVqo-2BH-2FZedeb6-2BFd-2F2UhPFU6liUQTa-2Bie9Xa5v7ALePRMoujUJi0rU1oEVDCfIoVVJfQ5Xj5M-2F9x2ZVJUvpMeX8z6ZYBhIiWy7nQD5he6KHAkJH5-2B4AjtT-2F-2BWhSeEKwwb4ssm5bNnTsR1q-2BeuM-2FFDBrAGM5SFGvoiwXGpBTY8txFW4vZNP-2Ff-2BWfak2cryCs5cGU4-2FNA14IMzq2iti3cH4JViLAFAuyeY55ya1ZHN_5J-2FwVDS3qm7eyEbT5QLsoL8yGMdekiHD3KMCE9tJGPS5joD4GKFy1FGxgZQ7Xg23ZtT7uAvlCGX4FCefH8bOFiN9he-2FeEkLOFJQEeO-2Fki3kKm4lqFPIHFN-2BK6TpQH0yhO67x7VDupQPC9-2BznkdTEa8HFh0J40WX-2FiI-2F9Q6M7T8RDYdTNhogSgw0AfFwTNU3dk8xv3212cR6g8hU0VOs4Rg-3D-3D",
+    audioSrc: "https://github.com/thepixiq/thepixiq.github.io/blob/main/dance.m4a",
   },
 ];
 
