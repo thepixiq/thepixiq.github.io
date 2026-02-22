@@ -182,6 +182,8 @@ export default function PixiqLanding() {
           {/* Background — Ken Burns zoom */}
           <motion.div
             className="absolute inset-0"
+            role="img"
+            aria-label="DJ pixiq — mashup DJ for private events, fashion nights, and members clubs"
             animate={{ scale: [1, 1.06] }}
             transition={{
               duration: 20,
@@ -237,6 +239,7 @@ export default function PixiqLanding() {
               className="text-5xl md:text-7xl font-semibold leading-[0.95] mb-5"
             >
               pixiq
+              <span className="sr-only"> — Mashup DJ for Private Events, Fashion Nights & Members Clubs</span>
             </motion.h1>
 
             {/* Event badges */}
